@@ -1,0 +1,10 @@
+﻿Build started 3/6/2016 1:26:53 AM.
+     1>Project "C:\Users\EK\Desktop\C++Projects\GameJam\ritual\ritual.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (cargame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         ritual.vcxproj -> C:\Users\EK\Desktop\C++Projects\GameJam\ritual\Release\ritual.exe
+     1>Done Building Project "C:\Users\EK\Desktop\C++Projects\GameJam\ritual\ritual.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.40

@@ -1,0 +1,32 @@
+﻿Build started 3/5/2016 9:50:26 PM.
+     1>Project "C:\Users\EK\Desktop\C++Projects\GameJam\ritual\ritual.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\Collectables.cpp src\collidable.cpp src\Game.cpp src\Loader.cpp src\main.cpp src\movable.cpp src\Player.cpp src\utilities.cpp
+         utilities.cpp
+         Player.cpp
+         movable.cpp
+         main.cpp
+         Loader.cpp
+     1>c:\users\ek\desktop\c++projects\gamejam\ritual\src\loader.cpp(21): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ek\desktop\c++projects\gamejam\ritual\src\loader.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+         Game.cpp
+     1>c:\users\ek\desktop\c++projects\gamejam\ritual\src\game.cpp(100): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\ek\desktop\c++projects\gamejam\ritual\src\game.cpp(102): warning C4018: '<' : signed/unsigned mismatch
+         collidable.cpp
+         Collectables.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\EK\Desktop\C++Projects\GameJam\ritual\Debug\ritual.exe" /INCREMENTAL /NOLOGO "sfml-main-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\EK\Desktop\C++Projects\GameJam\ritual\Debug\ritual.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\EK\Desktop\C++Projects\GameJam\ritual\Debug\ritual.lib" /MACHINE:X86 Debug\Collectables.obj
+         Debug\collidable.obj
+         Debug\Game.obj
+         Debug\Loader.obj
+         Debug\main.obj
+         Debug\movable.obj
+         Debug\Player.obj
+         Debug\utilities.obj
+         ritual.vcxproj -> C:\Users\EK\Desktop\C++Projects\GameJam\ritual\Debug\ritual.exe
+     1>Done Building Project "C:\Users\EK\Desktop\C++Projects\GameJam\ritual\ritual.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:34.11
